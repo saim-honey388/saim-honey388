@@ -178,10 +178,6 @@
   <img src="https://github.com/saim-honey388/saim-honey388/blob/output/github-snake-dark.svg" alt="Snake Animation" />
 </div>
 
-<div align="center">
-  <img src="https://github.com/saim-honey388/saim-honey388/blob/output/ocean.gif" alt="Ocean Snake Animation" width="80%" />
-</div>
-
 ---
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4000&pause=1200&color=667EEA&center=true&vCenter=true&width=600&lines=💡+Build+intelligence.;🚀+Architect+futures.;🎯+Create+amazing+things!" alt="Footer Quote">
