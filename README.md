@@ -25,62 +25,60 @@
 
 <br>
 
+<div align="center">
+
 <table width="100%">
 <tr>
-<td width="60%">
+<td width="50%" align="center">
 
-### 🚀 **Current Mission**
-```typescript
-const saimProfile = {
-  role: "AI Engineer & ML Innovator",
-  location: "Pakistan 🇵🇰 (Remote Worldwide)",
-  
-  currentlyBuilding: [
-    "🤖 Autonomous AI Agent Systems",
-    "🧠 Advanced RAG Architectures", 
-    "⚡ Real-time ML Pipelines",
-    "🔮 Next-gen LLM Applications"
-  ],
-  
-  expertise: {
-    ai: ["GPT", "LangChain", "Transformers"],
-    ml: ["PyTorch", "TensorFlow", "Scikit-learn"],
-    cloud: ["AWS", "GCP", "Docker", "Kubernetes"],
-    databases: ["Vector DBs", "MongoDB", "PostgreSQL"]
-  },
-  
-  philosophy: "Intelligence without limits 🚀"
-};
-```
-
-</td>
-<td width="40%">
-
-### 📊 **Skills Radar**
+### 🎯 **My Expertise**
 
 <div align="center">
 
-**AI/ML Development**
-![AI](https://geps.dev/progress/95?dangerColor=FF6B6B&warningColor=4ECDC4&successColor=45B7D1)
-
-**Cloud Architecture** 
-![Cloud](https://geps.dev/progress/88?dangerColor=FF6B6B&warningColor=4ECDC4&successColor=45B7D1)
-
-**System Design**
-![System](https://geps.dev/progress/92?dangerColor=FF6B6B&warningColor=4ECDC4&successColor=45B7D1)
-
-**Problem Solving**
-![Problem](https://geps.dev/progress/96?dangerColor=FF6B6B&warningColor=4ECDC4&successColor=45B7D1)
+![AI/ML](https://img.shields.io/badge/AI%2FML%20Development-95%25-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud%20Architecture-88%25-4ECDC4?style=for-the-badge&logo=amazonaws&logoColor=white)
+![System](https://img.shields.io/badge/System%20Design-92%25-45B7D1?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![Problem](https://img.shields.io/badge/Problem%20Solving-96%25-00D4AA?style=for-the-badge&logo=lightbulb&logoColor=white)
 
 </div>
 
+### 🚀 **Currently Building**
+
+<table align="center">
+<tr>
+<td align="center">🤖<br><strong>AI Agents</strong></td>
+<td align="center">🧠<br><strong>RAG Systems</strong></td>
+</tr>
+<tr>
+<td align="center">⚡<br><strong>ML Pipelines</strong></td>
+<td align="center">🔮<br><strong>LLM Apps</strong></td>
+</tr>
+</table>
+
+</td>
+<td width="50%" align="center">
+
+### 🏆 **Achievements**
+
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=saim-honey388&theme=algolia&no-frame=true&row=1&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=saim-honey388&theme=algolia&no-frame=true&row=2&column=3" />
+</div>
+
+### 🌍 **Professional Info**
+
+<div align="center">
+
+![Role](https://img.shields.io/badge/Role-AI%20Engineer%20%26%20ML%20Innovator-FF6B6B?style=flat-square)
+![Location](https://img.shields.io/badge/Location-Pakistan%20🇵🇰%20(Remote%20Worldwide)-4ECDC4?style=flat-square)
+![Philosophy](https://img.shields.io/badge/Philosophy-Intelligence%20without%20limits%20🚀-45B7D1?style=flat-square)
+
 </div>
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -275,39 +273,54 @@ const saimProfile = {
 
 <div align="center">
 
-## 🎵 **Fun Facts**
+## 💼 **Professional Highlights**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=45B7D1&center=true&vCenter=true&width=500&lines=🎯+Fun+Facts+About+Me;⚡+Beyond+Just+Code;🚀+What+Makes+Me+Tick" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=45B7D1&center=true&vCenter=true&width=500&lines=💼+Professional+Excellence;⚡+Industry+Recognition;🚀+Continuous+Growth" />
 
 </div>
 
 <br>
 
-<table width="100%">
-<tr>
-<td width="50%" align="center">
+<div align="center">
 
-### 🎮 **When I'm Not Coding**
-- 🎵 **Music**: Lofi beats fuel my coding sessions
-- 🎮 **Gaming**: Strategy games sharpen problem-solving  
-- 📚 **Reading**: AI research papers & sci-fi novels
-- ☕ **Coffee**: Consuming dangerous amounts daily
+<table width="90%">
+<tr>
+<td width="33%" align="center">
+
+### 🎯 **Core Strengths**
+
+![Innovation](https://img.shields.io/badge/Innovation-Expert-FF6B6B?style=for-the-badge&logo=lightbulb)
+![Leadership](https://img.shields.io/badge/Leadership-Strong-4ECDC4?style=for-the-badge&logo=users)
+![Delivery](https://img.shields.io/badge/Delivery-Fast-45B7D1?style=for-the-badge&logo=rocket)
 
 </td>
-<td width="50%" align="center">
+<td width="33%" align="center">
 
-### ⚡ **Quick Stats**
-- 🌙 **Night Owl**: Best code written after midnight
-- 🔥 **Languages**: Fluent in Python, JavaScript, Urdu, English
-- 🎯 **Motto**: "Code it, ship it, improve it"
-- 🚀 **Goal**: Making AI accessible to everyone
+### 🏅 **Specializations**
+
+![AI](https://img.shields.io/badge/AI%20Engineering-⭐⭐⭐⭐⭐-FF6B6B?style=for-the-badge)
+![MLOps](https://img.shields.io/badge/MLOps-⭐⭐⭐⭐⭐-4ECDC4?style=for-the-badge)
+![Architecture](https://img.shields.io/badge/System%20Architecture-⭐⭐⭐⭐⭐-45B7D1?style=for-the-badge)
+
+</td>
+<td width="33%" align="center">
+
+### 🚀 **Impact Areas**
+
+![Automation](https://img.shields.io/badge/Process%20Automation-High-00D4AA?style=for-the-badge&logo=automation)
+![Scalability](https://img.shields.io/badge/System%20Scalability-High-FF6B6B?style=for-the-badge&logo=trending-up)
+![Innovation](https://img.shields.io/badge/Tech%20Innovation-High-4ECDC4?style=for-the-badge&logo=bulb)
 
 </td>
 </tr>
 </table>
 
+</div>
+
+<br>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:4ECDC4,100:45B7D1&height=120&section=header&text=🎯%20Always%20Learning&fontSize=20&fontColor=fff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:FF6B6B,100:4ECDC4&height=100&section=header&text=🎯%20Excellence%20in%20AI%20Engineering&fontSize=18&fontColor=fff&animation=fadeIn" />
 </div>
 
 ---
@@ -365,14 +378,25 @@ const saimProfile = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=4000&pause=1500&color=FF6B6B&center=true&vCenter=true&width=800&lines=🚀+Don't+just+build+models%2C+build+the+future;💡+Intelligence+is+the+new+electricity;🎯+Let's+architect+tomorrow+together!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=4000&pause=1500&color=FF6B6B&center=true&vCenter=true&width=700&lines=💡+Transforming+Ideas+into+Intelligent+Solutions;🚀+Building+Tomorrow's+Technology+Today;🎯+Your+AI+Engineering+Partner" />
+
+<br><br>
+
+<div align="center">
+
+![Quality](https://img.shields.io/badge/Quality-Enterprise%20Grade-FF6B6B?style=for-the-badge&logo=shield)
+![Delivery](https://img.shields.io/badge/Delivery-On%20Time-4ECDC4?style=for-the-badge&logo=clock)
+![Support](https://img.shields.io/badge/Support-24%2F7-45B7D1?style=for-the-badge&logo=headphones)
+![Innovation](https://img.shields.io/badge/Innovation-Cutting%20Edge-00D4AA?style=for-the-badge&logo=rocket)
+
+</div>
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=120&section=footer&animation=twinkling"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Made%20with-❤️%20%26%20AI-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Crafted%20in-2024-4ECDC4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Always-Learning%20%26%20Growing-45B7D1?style=for-the-badge" />
-</p>
+<div align="center">
+  <p><em>🌟 Ready to revolutionize your AI projects? Let's connect and build the future together! 🚀</em></p>
+</div>
 
 </div> 
