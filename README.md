@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=300&section=header&text=Saim%20Khalid&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=🚀%20Architecting%20Intelligence%20%7C%20GenAI%20Innovator%20%7C%20ML%20Wizard&descAlignY=55&descAlign=50&descSize=20)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🤖+Machine+Learning+Engineer;🚀+Generative+AI+Specialist;⚡+LLM+Orchestration+Expert;🔥+Building+Future+AI+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=2000&color=FF6B6B&center=true&vCenter=true&width=800&lines=🤖+Machine+Learning+Engineer;🚀+Generative+AI+Specialist;⚡+LLM+Orchestration+Expert;🔥+Building+Future+AI+Systems" />
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/saim-honey388?label=Followers&style=for-the-badge&color=FF6B6B" />
@@ -19,7 +19,7 @@
 
 ## 🎯 **About Me**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=🤖+Transforming+Ideas+into+Intelligent+Systems;🚀+From+Concept+to+Production+in+AI;💡+Code+is+Poetry%2C+Intelligence+is+Art" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=2000&color=4ECDC4&center=true&vCenter=true&width=600&lines=🤖+Transforming+Ideas+into+Intelligent+Systems;🚀+From+Concept+to+Production+in+AI;💡+Code+is+Poetry%2C+Intelligence+is+Art" />
 
 </div>
 
@@ -86,7 +86,7 @@
 
 ## 🛠️ **Tech Arsenal**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=FF6B6B&center=true&vCenter=true&width=500&lines=⚔️+Weapons+of+Choice;🚀+Production-Ready+Stack;🔥+Cutting-Edge+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2000&pause=2000&color=FF6B6B&center=true&vCenter=true&width=500&lines=⚔️+Weapons+of+Choice;🚀+Production-Ready+Stack;🔥+Cutting-Edge+Technologies" />
 
 </div>
 
@@ -144,7 +144,7 @@
 
 ## 🏆 **Featured Projects**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=4ECDC4&center=true&vCenter=true&width=400&lines=🚀+Innovation+Showcase;💎+Production+Systems;🔥+AI+Masterpieces" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2000&pause=2000&color=4ECDC4&center=true&vCenter=true&width=400&lines=🚀+Innovation+Showcase;💎+Production+Systems;🔥+AI+Masterpieces" />
 
 </div>
 
@@ -223,7 +223,7 @@
 
 ## 📊 **GitHub Analytics**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=45B7D1&center=true&vCenter=true&width=400&lines=📈+Performance+Metrics;⚡+Code+Statistics;🏆+Achievement+Unlocked" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2000&pause=2000&color=45B7D1&center=true&vCenter=true&width=400&lines=📈+Performance+Metrics;⚡+Code+Statistics;🏆+Achievement+Unlocked" />
 
 </div>
 
@@ -247,7 +247,7 @@
 
 ## 🌟 **Coding Journey**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=00D4AA&center=true&vCenter=true&width=500&lines=⚡+Visualizing+My+Code+Journey;🎯+Every+Commit+Tells+a+Story;🚀+Building+the+Future+Daily" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2000&pause=2000&color=00D4AA&center=true&vCenter=true&width=500&lines=⚡+Visualizing+My+Code+Journey;🎯+Every+Commit+Tells+a+Story;🚀+Building+the+Future+Daily" />
 
 <br>
 
@@ -275,7 +275,7 @@
 
 ## 💼 **Professional Highlights**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=45B7D1&center=true&vCenter=true&width=500&lines=💼+Professional+Excellence;⚡+Industry+Recognition;🚀+Continuous+Growth" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2000&pause=2000&color=45B7D1&center=true&vCenter=true&width=500&lines=💼+Professional+Excellence;⚡+Industry+Recognition;🚀+Continuous+Growth" />
 
 </div>
 
@@ -329,7 +329,7 @@
 
 ## 🤝 **Let's Build Together**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=🌟+Ready+for+Your+Next+AI+Project?;💡+Let's+Create+Something+Amazing!;🚀+The+Future+is+Calling..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=2000&color=FF6B6B&center=true&vCenter=true&width=600&lines=🌟+Ready+for+Your+Next+AI+Project?;💡+Let's+Create+Something+Amazing!;🚀+The+Future+is+Calling..." />
 
 <br>
 
@@ -378,7 +378,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=4000&pause=1500&color=FF6B6B&center=true&vCenter=true&width=700&lines=💡+Transforming+Ideas+into+Intelligent+Solutions;🚀+Building+Tomorrow's+Technology+Today;🎯+Your+AI+Engineering+Partner" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=2000&color=FF6B6B&center=true&vCenter=true&width=700&lines=💡+Transforming+Ideas+into+Intelligent+Solutions;🚀+Building+Tomorrow's+Technology+Today;🎯+Your+AI+Engineering+Partner" />
 
 <br><br>
 
