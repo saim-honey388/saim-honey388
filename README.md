@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/github-profile-views?username=saim-honey388&label=Views&color=667eea&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/saim-honey388?label=Followers&style=flat&color=764ba2" alt="Followers" />
   <img src="https://img.shields.io/badge/Focus-GenAI-667eea?style=flat" alt="Focus" />
   <img src="https://img.shields.io/badge/Available-for%20Hire-00D084?style=flat" alt="Status" />
