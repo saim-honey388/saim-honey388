@@ -247,14 +247,67 @@ const saimProfile = {
 
 <div align="center">
 
-## 🐍 **Contribution Snake**
+## 🌟 **Coding Journey**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=00D4AA&center=true&vCenter=true&width=400&lines=🐍+Watch+the+Magic;⚡+Eating+My+Commits;🔥+Snake+in+Action" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=00D4AA&center=true&vCenter=true&width=500&lines=⚡+Visualizing+My+Code+Journey;🎯+Every+Commit+Tells+a+Story;🚀+Building+the+Future+Daily" />
 
-<br><br>
+<br>
 
-<img src="https://github.com/saim-honey388/saim-honey388/blob/output/github-snake-dark.svg" alt="Snake Animation" />
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saim-honey388&theme=radical" width="80%" />
+</div>
 
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saim-honey388&theme=redical&hide_border=true&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=45B7D1&area=true&area_color=FF6B6B" width="90%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FF6B6B,100:4ECDC4&height=150&section=header&text=💻%20Coding%20Streak&fontSize=25&fontColor=fff&animation=blinking" />
+</div>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎵 **Fun Facts**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=45B7D1&center=true&vCenter=true&width=500&lines=🎯+Fun+Facts+About+Me;⚡+Beyond+Just+Code;🚀+What+Makes+Me+Tick" />
+
+</div>
+
+<br>
+
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+
+### 🎮 **When I'm Not Coding**
+- 🎵 **Music**: Lofi beats fuel my coding sessions
+- 🎮 **Gaming**: Strategy games sharpen problem-solving  
+- 📚 **Reading**: AI research papers & sci-fi novels
+- ☕ **Coffee**: Consuming dangerous amounts daily
+
+</td>
+<td width="50%" align="center">
+
+### ⚡ **Quick Stats**
+- 🌙 **Night Owl**: Best code written after midnight
+- 🔥 **Languages**: Fluent in Python, JavaScript, Urdu, English
+- 🎯 **Motto**: "Code it, ship it, improve it"
+- 🚀 **Goal**: Making AI accessible to everyone
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:4ECDC4,100:45B7D1&height=120&section=header&text=🎯%20Always%20Learning&fontSize=20&fontColor=fff&animation=fadeIn" />
 </div>
 
 ---
