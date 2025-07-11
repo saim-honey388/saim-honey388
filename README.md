@@ -1,17 +1,16 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=280&section=header&text=Saim%20Khalid&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Architecting%20Intelligence%20%7C%20GenAI%20Engineer%20%7C%20Applied%20ML%20Innovator&descAlignY=55&descAlign=50&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=wave&color=0:667eea,100:764ba2&height=200&section=header&text=Saim%20Khalid&fontSize=40&fontColor=fff&animation=scaleIn&fontAlignY=30)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=🤖+Machine+Learning+Engineer;🚀+Generative+AI+Specialist;⚡+LLM+Orchestration+Expert;🔥+Building+Production-Grade+AI+Systems;💡+Designing+Future-Ready+Intelligence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=667EEA&center=true&vCenter=true&width=700&lines=🤖+ML+Engineer;🚀+GenAI+Specialist;⚡+AI+Developer;🔥+Building+Smart+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/github-profile-views?username=saim-honey388&label=Profile%20Views&color=667eea&style=plastic" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/saim-honey388?label=Followers&style=plastic&color=764ba2" alt="Followers" />
-  <img src="https://img.shields.io/badge/Focus-Generative%20AI-667eea?style=plastic" alt="Focus" />
-  <img src="https://img.shields.io/badge/Location-Pakistan%20🇵🇰-764ba2?style=plastic" alt="Location" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-00D084?style=plastic" alt="Status" />
+  <img src="https://komarev.com/github-profile-views?username=saim-honey388&label=Views&color=667eea&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/saim-honey388?label=Followers&style=flat&color=764ba2" alt="Followers" />
+  <img src="https://img.shields.io/badge/Focus-GenAI-667eea?style=flat" alt="Focus" />
+  <img src="https://img.shields.io/badge/Available-for%20Hire-00D084?style=flat" alt="Status" />
 </p>
 
 </div>
@@ -21,7 +20,7 @@
 ## 🚀 About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=🤖+Machine+Learning+Engineer+%26+GenAI+Specialist;🚀+Transforming+AI+Concepts+into+Production+Systems;💡+Code+is+structure.+Intelligence+is+architecture." alt="About Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2500&pause=500&color=667EEA&center=true&vCenter=true&width=500&lines=🤖+ML+Engineer+%26+GenAI+Specialist;🚀+Building+AI+Production+Systems;💡+Intelligence+is+architecture." alt="About Animation">
 </div>
 
 <br>
@@ -61,7 +60,7 @@
 </table>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saim-honey388&theme=github_dark" width="80%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saim-honey388&theme=github_dark" width="70%" />
 </div>
 
 ---
@@ -69,7 +68,7 @@
 ## 🛠️ Technology Arsenal
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=500&color=764BA2&center=true&vCenter=true&width=500&lines=🚀+Cutting-Edge+AI+%26+ML+Stack;⚡+Production-Ready+Technologies;🔥+Tools+for+Intelligent+Systems" alt="Tech Stack Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2000&pause=300&color=764BA2&center=true&vCenter=true&width=400&lines=🚀+AI+%26+ML+Stack;⚡+Production+Tech;🔥+Smart+Tools" alt="Tech Stack Animation">
 </div>
 
 <br>
@@ -135,11 +134,11 @@
 
 <div align="center">
 
-<img width="390" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=saim-honey388&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
-<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=saim-honey388&theme=github-dark-blue&hide_border=true"/>
+<img width="350" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=saim-honey388&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+<img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=saim-honey388&theme=github-dark-blue&hide_border=true"/>
 
-<img width="335" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=saim-honey388&theme=github_dark&layout=compact&hide_border=true"/>
-<img width="390" src="https://github-readme-activity-graph.vercel.app/graph?username=saim-honey388&theme=github-compact&hide_border=true&area=true"/>
+<img width="300" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=saim-honey388&theme=github_dark&layout=compact&hide_border=true"/>
+<img width="350" src="https://github-readme-activity-graph.vercel.app/graph?username=saim-honey388&theme=github-compact&hide_border=true&area=true"/>
 
 </div>
 
@@ -148,7 +147,7 @@
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2500&pause=500&color=667EEA&center=true&vCenter=true&width=500&lines=🌐+Ready+to+collaborate+on+AI+projects?;💼+Open+for+exciting+opportunities!;🚀+Let's+build+the+future+together!" alt="Connect Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2000&pause=300&color=667EEA&center=true&vCenter=true&width=400&lines=🌐+Ready+to+collaborate?;💼+Open+for+opportunities!;🚀+Let's+build+together!" alt="Connect Animation">
 </div>
 
 <br>
@@ -179,14 +178,14 @@
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=💡+Don't+just+build+models.+Build+intelligence.;🚀+Architect+futures.+Transform+possibilities.;🎯+Let's+create+something+amazing+together!" alt="Footer Quote">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2000&pause=400&color=667EEA&center=true&vCenter=true&width=600&lines=💡+Build+intelligence.;🚀+Architect+futures.;🎯+Create+amazing+things!" alt="Footer Quote">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:667eea,100:764ba2&height=80&section=footer"/>
 
 <p>
-  <img src="https://img.shields.io/badge/Made%20with-❤️%20%26%20☕-667eea?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Updated-December%202024-764ba2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Always-Learning%20%26%20Growing-00D084?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Made%20with-❤️%20☕-667eea?style=flat" />
+  <img src="https://img.shields.io/badge/Dec%202024-764ba2?style=flat" />
+  <img src="https://img.shields.io/badge/Learning-00D084?style=flat" />
 </p>
 
 </div> 
