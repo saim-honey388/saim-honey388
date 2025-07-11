@@ -3,7 +3,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=wave&color=0:667eea,100:764ba2&height=200&section=header&text=Saim%20Khalid&fontSize=40&fontColor=fff&animation=scaleIn&fontAlignY=30)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=667EEA&center=true&vCenter=true&width=700&lines=🤖+ML+Engineer;🚀+GenAI+Specialist;⚡+AI+Developer;🔥+Building+Smart+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1500&color=667EEA&center=true&vCenter=true&width=700&lines=🤖+ML+Engineer;🚀+GenAI+Specialist;⚡+AI+Developer;🔥+Building+Smart+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 ## 🚀 About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2500&pause=500&color=667EEA&center=true&vCenter=true&width=500&lines=🤖+ML+Engineer+%26+GenAI+Specialist;🚀+Building+AI+Production+Systems;💡+Intelligence+is+architecture." alt="About Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4500&pause=1200&color=667EEA&center=true&vCenter=true&width=500&lines=🤖+ML+Engineer+%26+GenAI+Specialist;🚀+Building+AI+Production+Systems;💡+Intelligence+is+architecture." alt="About Animation">
 </div>
 
 <br>
@@ -67,7 +67,7 @@
 ## 🛠️ Technology Arsenal
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2000&pause=300&color=764BA2&center=true&vCenter=true&width=400&lines=🚀+AI+%26+ML+Stack;⚡+Production+Tech;🔥+Smart+Tools" alt="Tech Stack Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=3500&pause=1000&color=764BA2&center=true&vCenter=true&width=400&lines=🚀+AI+%26+ML+Stack;⚡+Production+Tech;🔥+Smart+Tools" alt="Tech Stack Animation">
 </div>
 
 <br>
@@ -146,7 +146,7 @@
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2000&pause=300&color=667EEA&center=true&vCenter=true&width=400&lines=🌐+Ready+to+collaborate?;💼+Open+for+opportunities!;🚀+Let's+build+together!" alt="Connect Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=3500&pause=1000&color=667EEA&center=true&vCenter=true&width=400&lines=🌐+Ready+to+collaborate?;💼+Open+for+opportunities!;🚀+Let's+build+together!" alt="Connect Animation">
 </div>
 
 <br>
@@ -173,11 +173,18 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🐍 Watch the Snake Eat My Contributions
-![Snake animation](https://github.com/saim-honey388/saim-honey388/blob/output/github-contribution-grid-snake-dark.svg)
+
+<div align="center">
+  <img src="https://github.com/saim-honey388/saim-honey388/blob/output/github-snake-dark.svg" alt="Snake Animation" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/saim-honey388/saim-honey388/blob/output/ocean.gif" alt="Ocean Snake Animation" width="80%" />
+</div>
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2000&pause=400&color=667EEA&center=true&vCenter=true&width=600&lines=💡+Build+intelligence.;🚀+Architect+futures.;🎯+Create+amazing+things!" alt="Footer Quote">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4000&pause=1200&color=667EEA&center=true&vCenter=true&width=600&lines=💡+Build+intelligence.;🚀+Architect+futures.;🎯+Create+amazing+things!" alt="Footer Quote">
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=0:667eea,100:764ba2&height=80&section=footer"/>
 
